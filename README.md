@@ -14,7 +14,8 @@
 ## Connect with me:
 Email: medhansh80gamer@protonmail.com
 
-Discord: ItzCook1e#5660
+Discord: Medhansh80#0001
 
 Other: Just ask!
+
 *PS- All my projects are GPL v3 and not Copyrighted feel free to use 'em!*
