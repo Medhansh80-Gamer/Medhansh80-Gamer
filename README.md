@@ -1,7 +1,7 @@
 ### Hi! I'm Medhansh80-Gamer! (or Programmer whatever you'd like to prefer). <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## About me:
 - 🔭 I’m currently working on - DinoOS and Ubuntu Touch for multiple devices!
-- 🌱 I’m currently learning - Java
+- 🌱 I’m currently learning - Java, Advanced Linux
 - 👯 I’m looking to collaborate with - Mostly anything related to tech!
 - 💬 Ask me about - I will gladly talk anything with ya!
 - 🥅 My Goals - Do anything without College classes :)
