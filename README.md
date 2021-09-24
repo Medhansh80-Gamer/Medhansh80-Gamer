@@ -1,4 +1,4 @@
-### Hola! I'm Medhansh80-Gamer! (or Programmer whatever you'd like to prefer you can call me Med :)). <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola! I'm Medhansh80-Gamer! (or Programmer whatever you'd like to prefer you can call me Med too!) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## About me:
 - 🔭 I’m currently working on - DinoOS and Ubuntu Touch for multiple devices!
 - 🌱 I’m currently learning - Java, Advanced Linux
