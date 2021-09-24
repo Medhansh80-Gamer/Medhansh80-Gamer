@@ -16,6 +16,6 @@ Email: medhansh80gamer@protonmail.com
 
 Discord: Medhansh80#0001
 
-Other: Just ask!
+Other: Ask me on my Mail or Discord!
 
 *PS- All my projects are GPL v3 and not Copyrighted feel free to use 'em!*
